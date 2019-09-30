@@ -4,7 +4,7 @@ description: 'Blog bebas buat story gue'
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 baseurl: '/story'
-disqus: 'demowebsite'
+disqus: 'zulfkrstory'
 email: 'zulfkr197@gmail.com'
 mailchimp-list: ''
 

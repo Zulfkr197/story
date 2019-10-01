@@ -4,7 +4,6 @@ title:  "Domain my.id Lagi Murah"
 author: zulfkr
 categories: [ life, gaje ]
 image: /external/story/zoo-4508682_pixabay.jpg
-tags: [life]
 ---
 
 Bulan kemarin gak sengaja liat berita di beranda facebook, kalau domain my.id itu lagi promo murah banget, cuman 10rb udah bisa dapat domain my.id setahun. berlaku kelipatan.

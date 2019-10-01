@@ -19,7 +19,7 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    zul:
+    zulfkr:
       name:           Zul
       site:           https://zulfkr.my.id
       avatar:         /assets/images/avatar1.jpg

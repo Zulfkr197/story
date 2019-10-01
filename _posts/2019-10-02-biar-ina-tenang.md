@@ -3,7 +3,7 @@ layout: post
 title:  "Biar ina tenang..."
 author: zulfkr
 categories: [ life, gaje ]
-image: https://zulfkr.my.id/external/story/yt_musiksession_sombanusa.jpg
+image: https://zulfkr.my.id/external/story/musiksession_sombanusa.jpg
 ---
 
 Lagu ini pertama kali saya denger lewat teman whatsapp saya, mikirnya ini lagu buatan dia padahal bukan wkwkwk,, selang beberapa bulan saya kepikiran lagi buat dengar ulang, dikarenakan waktu itu saya gak sengaja hapus lagunya, 

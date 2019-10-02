@@ -25,5 +25,5 @@ dan yang menariknya lagi gak perlu lampirin identitas KTP/SIM buat belinya. kala
 
 sekian, semoga bermanfaat dan semoga saat baca artikel ini masih sempet dapat promonya. w juga mau beli lagi cuman bingung buat apaan... wkwkwk
 
-Referensi :
+Referensi:
 https://rmco.id/baca-berita/ecommerce/18242/cuma-rp-10-ribu-asyik-nama-domain-myid-murah-banget

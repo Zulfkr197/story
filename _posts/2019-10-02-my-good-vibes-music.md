@@ -28,7 +28,7 @@ dan langsung saja berikut koleksi lagu favorit saya. semoga bisa dinikmati dan m
 ### Bonus : Trap Sad 
 [![TRAP SAD](http://img.youtube.com/vi/fzFhnElcvTU/0.jpg)](http://www.youtube.com/watch?v=fzFhnElcvTU "TRAP SAD")
 
-Referensi :
-https://youtube.com/
-https://www.youtube.com/channel/UC5fkduTWl7FDzTe3omS9yfQ/videos
+Referensi :<br>
+https://youtube.com/<br>
+https://www.youtube.com/channel/UC5fkduTWl7FDzTe3omS9yfQ/videos<br>
 http://embedyoutube.org/

@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
+
 {% assign author = site.authors[page.author] %}
-<div class="container">
+<div class="container post-width">
 <div class="jumbotron jumbotron-fluid mb-3 pl-0 pt-0 pb-0 bg-white position-relative">
 		<div class="h-100 tofront">
-			<div class="row {% if page.image %} justify-content-between {% else %} justify-content-center {% endif %}">
-				<div class="{% if page.image %} col-md-6 {% else %} col-md-8 {% endif %} pr-0 pr-md-4 pt-4 pb-4 align-self-center">
+			<div class="row{% if page.image %} justify-content-between {% else %} justify-content-center {% endif %}">
+				<div class="col-md-12 pb-4 align-self-center">
 					<p class="text-uppercase font-weight-bold">
                         <span class="catlist">
 						{% for category in page.categories %}
@@ -25,7 +26,7 @@ layout: default
 					</div>
 				</div>
                 {% if page.image %}
-				<div class="col-md-6 pr-0 align-self-center">
+				<div class="col-md-12 pr-0 align-self-center">
 					<img class="rounded" src="{% if page.image contains "://" %}{{ page.image }}{% else %}{{ site.baseurl }}/{{ page.image }}{% endif %}" alt="{{ page.title }}">
 				</div>
                 {% endif %}
@@ -34,35 +35,10 @@ layout: default
 	</div>
 </div>
 
-
-
-
-
-<div class="container-lg pt-4 pb-4">
-	<div class="row justify-content-center">
+<div class="container post-width pt-4 pb-4">
+	<div class="row justify-content-center">        
         
-        
-        <!-- Share -->
-		<div class="col-lg-2 pr-4 mb-4 col-md-12">
-			<div class="sticky-top sticky-top-offset text-center">
-				<div class="text-muted">
-					Share this
-				</div>
-				<div class="share d-inline-block">
-					<!-- AddToAny BEGIN -->
-					<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-						<a class="a2a_dd" href="https://www.addtoany.com/share"></a>
-						<a class="a2a_button_facebook"></a>
-						<a class="a2a_button_twitter"></a>
-					</div>
-					<script async src="https://static.addtoany.com/menu/page.js"></script>
-					<!-- AddToAny END -->
-				</div>
-			</div>
-		</div>
-        
-        
-		<div class="col-md-12 col-lg-8">
+		<div class="col-md-12 col-lg-12">
             
             <!-- Article -->
 			<article class="article-post">                
@@ -125,12 +101,9 @@ layout: default
                 {% include comments.html %}
             {% endif %}
             
-		</div>
-        
-        
+		</div>        
 	</div>
 </div>
-
 
 <!-- Aletbar Prev/Next -->
 <div class="alertbar">

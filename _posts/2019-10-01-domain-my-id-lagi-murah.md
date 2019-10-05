@@ -14,16 +14,19 @@ kebetulan domain saya sebelumnya .id di domainesia itu naik harga yang awalnya 1
 
 saya beli 11 tahun, untuk pembelian awal batasnya hanya 5 tahun jadinya 55rb, pajaknya 1rb/tahun, jadi totalnya 11 tahun 121rb an kayaknya. hehehehe
 
-untuk pembeliannya domain murahnya hanya di idcloudhost.com (10rb), hostingan.id (13rb) dan juga di https://idwebhost.com/domain-murah (11rb)
+untuk pembeliannya domain murahnya hanya di 
+1. https://idcloudhost.com (10rb)
+2. https://hostingan.id (13rb)
+3. https://idwebhost.com/domain-murah (11rb)
 
-berikut lampiran promonya 
-https://idcloudhost.com/promo/promo-domain-my-id/
-https://www.hostingan.id/domain-murah
-https://idwebhost.com/domain-murah
+berikut lampiran promonya <br>
+* https://idcloudhost.com/promo/promo-domain-my-id/<br>
+* https://www.hostingan.id/domain-murah<br>
+* https://idwebhost.com/domain-murah
 
 dan yang menariknya lagi gak perlu lampirin identitas KTP/SIM buat belinya. kalau dulu sih perlu.
 
 sekian, semoga bermanfaat dan semoga saat baca artikel ini masih sempet dapat promonya. w juga mau beli lagi cuman bingung buat apaan... wkwkwk
 
-Referensi:
+Referensi:<br>
 https://rmco.id/baca-berita/ecommerce/18242/cuma-rp-10-ribu-asyik-nama-domain-myid-murah-banget
